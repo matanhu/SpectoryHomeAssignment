@@ -11,3 +11,6 @@
 #### The limitations are as follows:
 1. You should not use any existing game engine
 2. Use DOM elements (=meaning no Canvas).
+
+
+![](screenShot.png)
