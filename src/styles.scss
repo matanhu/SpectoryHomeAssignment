@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+:root {
+    --color-background-game: #47565A;
+    --color-font-game: #fff;
+
+    --color-column-game-over: #D24D57;
+    --color-column-fruit: #EC644B;
+    --color-column-snake-head: #EC644B;
+    --color-column-snake-body: #C8F7C5;
+}
+
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
